@@ -5,7 +5,7 @@ This Project Priority Matrix provides AtliQ Hardware with a clear framework for 
 
 
 # Background
-AtliQ Hardware is a leading provider of electronic hardware, supplying a wide range of products such as PCs, keyboards, and mice. The company operates through multiple sales channels, including e-commerce platforms (like Amazon and Flipkart) and traditional brick-and-mortar retail stores. To support its growth objectives, AtliQ Hardware undertakes a variety of internal projects aimed at improving business operations, expanding its market reach, and enhancing customer satisfaction.
+AtliQ Hardware is a leading provider of electronic hardware, supplying a wide range of products such as PCs, keyboards, and mouse. The company operates through multiple sales channels, including e-commerce platforms (like Amazon and Flipkart) and traditional brick-and-mortar retail stores. To support its growth objectives, AtliQ Hardware undertakes a variety of internal projects aimed at improving business operations, expanding its market reach, and enhancing customer satisfaction.
 
 # Project Overview
 The "Project Priority Matrix" evaluates various ongoing or potential internal projects at AtliQ Hardware across three key dimensions: Feasibility, Impact, and Size. These criteria help prioritize projects based on their strategic alignment, resource requirements, and expected business outcomes.
